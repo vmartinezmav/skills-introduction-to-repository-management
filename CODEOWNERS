@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @vmartinezmav
+/src/backend/database.py      @vmartinezmav
+/src/backend/routers/auth.py  @vmartinezmav
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @vmartinezmav
